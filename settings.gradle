@@ -1,0 +1,3 @@
+rootProject.name = "iphoto"
+include ':app'
+include ':countrypick'

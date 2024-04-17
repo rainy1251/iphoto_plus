@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ip_blue">#3295FB</color>
+    <color name="ip_blue_uncheck">#98CDFD</color>
+    <color name="ip_1C1F23">#1C1F23</color>
+    <color name="yp_group_checked">#FFE5F6FE</color>
+    <color name="yp_group_text_checked">#FF5DA2D0</color>
+    <color name="dark">#000000</color>
+    <color name="color_333333">#ff333333</color>
+    <color name="color_222222">#ff222222</color>
+    <color name="color_666666">#ff666666</color>
+    <color name="color_999999">#ff999999</color>
+    <color name="line">#EBEBEB</color>
+    <color name="under_line">#cccccc</color>
+    <color name="trans_color">#00000000</color>
+    <color name="mask_color">#33000000</color>
+    <color name="color_fe">#ffeeeeee</color>
+    <color name="color_error">#FFFF2727</color>
+    <color name="color_success">#FF009010</color>
+    <color name="color_wait">#FFFFCB01</color>
+</resources>
